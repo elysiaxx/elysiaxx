@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @elysiaxx
-- 👀 I’m interested in 
+- 👀 I’m interested in studying about computer and security
 - 🌱 I’m currently learning foundation hacking skill in HTB
-- 💞️ I’m looking to collaborate on making a team about hacking
 - 👀 I'm finding some team to enjoy to communicate, discuss and learn about hacking
 - 📫 How to reach me: contact me at quockhanhktqs@gmail.com
 
